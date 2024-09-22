@@ -21,3 +21,6 @@ https://drive.google.com/file/d/193YlWRYieRWnnWVCA-96x90lRFxLrNVf/view?usp=shari
 # Run case
 1. Navigate to project directory
 2. Run `python3 qa_task1.py` or `python3 qa_task2.py`
+
+# Task 2 execute video file
+https://drive.google.com/file/d/1DTmcbwrBMtWzEO3eNTbR_KHWptbfXnt5/view?usp=sharing
